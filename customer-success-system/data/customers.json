@@ -1,0 +1,112 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Acme Widgets",
+    "contact": "alice@acmewidgets.com",
+    "login_frequency": 25,
+    "usage_time": 90,
+    "support_tickets": 0,
+    "days_since_last_action": 1,
+    "account_age": 24,
+    "tier": "Enterprise"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Global Tech",
+    "contact": "bob@globaltech.com",
+    "login_frequency": 4,
+    "usage_time": 10,
+    "support_tickets": 3,
+    "days_since_last_action": 15,
+    "account_age": 6,
+    "tier": "Pro"
+  },
+  {
+    "id": "CUST-003",
+    "name": "StartUp Inc.",
+    "contact": "charlie@startupinc.io",
+    "login_frequency": 1,
+    "usage_time": 2,
+    "support_tickets": 1,
+    "days_since_last_action": 45,
+    "account_age": 2,
+    "tier": "Basic"
+  },
+  {
+    "id": "CUST-004",
+    "name": "MegaCorp",
+    "contact": "diana@megacorp.com",
+    "login_frequency": 15,
+    "usage_time": 45,
+    "support_tickets": 1,
+    "days_since_last_action": 5,
+    "account_age": 12,
+    "tier": "Enterprise"
+  },
+  {
+    "id": "CUST-005",
+    "name": "Local Business",
+    "contact": "eve@localbusiness.net",
+    "login_frequency": 8,
+    "usage_time": 20,
+    "support_tickets": 4,
+    "days_since_last_action": 10,
+    "account_age": 4,
+    "tier": "Pro"
+  },
+  {
+    "id": "CUST-006",
+    "name": "CloudNine Solutions",
+    "contact": "frank@cloudnine.io",
+    "login_frequency": 2,
+    "usage_time": 5,
+    "support_tickets": 5,
+    "days_since_last_action": 30,
+    "account_age": 8,
+    "tier": "Pro"
+  },
+  {
+    "id": "CUST-007",
+    "name": "Alpha Traders",
+    "contact": "george@alpha.com",
+    "login_frequency": 30,
+    "usage_time": 120,
+    "support_tickets": 0,
+    "days_since_last_action": 2,
+    "account_age": 36,
+    "tier": "Enterprise"
+  },
+  {
+    "id": "CUST-008",
+    "name": "Beta Bakery",
+    "contact": "helen@betabakery.com",
+    "login_frequency": 12,
+    "usage_time": 30,
+    "support_tickets": 1,
+    "days_since_last_action": 8,
+    "account_age": 14,
+    "tier": "Basic"
+  },
+  {
+    "id": "CUST-009",
+    "name": "Gamma Logistics",
+    "contact": "ian@gammalogistics.net",
+    "login_frequency": 5,
+    "usage_time": 15,
+    "support_tickets": 2,
+    "days_since_last_action": 20,
+    "account_age": 3,
+    "tier": "Pro"
+  },
+  {
+    "id": "CUST-010",
+    "name": "Delta Designs",
+    "contact": "julia@deltadesigns.com",
+    "login_frequency": 22,
+    "usage_time": 80,
+    "support_tickets": 1,
+    "days_since_last_action": 3,
+    "account_age": 18,
+    "tier": "Enterprise"
+  }
+]
